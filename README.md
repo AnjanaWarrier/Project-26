@@ -1,2 +1,3 @@
 # Project-26 
-this is my recipe for two potatoes
+Potato Wedges
+This is my recipe for two medium sized potatoes which serve two people
